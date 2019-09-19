@@ -112,3 +112,30 @@
 [submodule "realworld-frontent-webcomponent-javascript"]
 	path = realworld-frontent-webcomponent-javascript
 	url = https://github.com/criticalbh/vanilla-web-components-spa.git
+[submodule "realworld-fullstack-django-graphql"]
+	path = realworld-fullstack-django-graphql
+	url = https://github.com/MainaKamau92/conduit_django_graphene.git
+[submodule "realworld-serverless-aws-lambda-go"]
+	path = realworld-serverless-aws-lambda-go
+	url = https://github.com/chrisxue815/realworld-aws-lambda-dynamodb-go.git
+[submodule "realworld-serverless-google-cloud-esp-java-grpc"]
+	path = realworld-serverless-google-cloud-esp-java-grpc
+	url = https://github.com/godspeedchu/grpc-realworld-example.git
+[submodule "realworld-frontend-react-hooks-typescript"]
+	path = realworld-frontend-react-hooks-typescript
+	url = https://github.com/chagweyh/react-hooks-typescript-realworld.git
+[submodule "realworld-frontend-nuxtjs-typescript"]
+	path = realworld-frontend-nuxtjs-typescript
+	url = https://github.com/dj0nny/nuxt-typescript-realworld.git
+[submodule "realworld-backend-micronaut"]
+	path = realworld-backend-micronaut
+	url = https://github.com/mirjahal/micronaut-realworld-example-app.git
+[submodule "realworld-app-flutter-bloc"]
+	path = realworld-app-flutter-bloc
+	url = https://github.com/daniel-lucas-silva/flutter_realworld_example_app.git
+[submodule "realworld-app-react-native-rxjs"]
+	path = realworld-app-react-native-rxjs
+	url = https://github.com/pvinis/realworld-react-native-rxjs.git
+[submodule "realworld-fullstack-loopback3"]
+	path = realworld-fullstack-loopback3
+	url = https://github.com/paulcedrick/realworld-starter-kit.git
