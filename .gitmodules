@@ -1,0 +1,114 @@
+[submodule "realworld-backend-clojure-polylith"]
+	path = realworld-backend-clojure-polylith
+	url = https://github.com/furkan3ayraktar/clojure-polylith-realworld-example-app.git
+[submodule "realworld-app-flutter"]
+	path = realworld-app-flutter
+	url = https://github.com/UkonnRa/flutter_realworld_app.git
+[submodule "realworld-backend-django"]
+	path = realworld-backend-django
+	url = https://github.com/gothinkster/django-realworld-example-app.git
+[submodule "realworld-backend-dotnetcore-csharp"]
+	path = realworld-backend-dotnetcore-csharp
+	url = https://github.com/gothinkster/aspnetcore-realworld-example-app.git
+[submodule "realworld-backend-dotnetcore-fsharp"]
+	path = realworld-backend-dotnetcore-fsharp
+	url = https://github.com/gothinkster/fsharp-realworld-example-app.git
+[submodule "realworld-backend-dropwizard"]
+	path = realworld-backend-dropwizard
+	url = https://github.com/Kevenvz/realworld-dropwizard-kit.git
+[submodule "realworld-backend-elixir"]
+	path = realworld-backend-elixir
+	url = https://github.com/gothinkster/elixir-phoenix-realworld-example-app.git
+[submodule "realworld-backend-flask"]
+	path = realworld-backend-flask
+	url = https://github.com/gothinkster/flask-realworld-example-app.git
+[submodule "realworld-backend-go-echo"]
+	path = realworld-backend-go-echo
+	url = https://github.com/xesina/golang-echo-realworld-example-app.git
+[submodule "realworld-backend-go-gin"]
+	path = realworld-backend-go-gin
+	url = https://github.com/gothinkster/golang-gin-realworld-example-app.git
+[submodule "realworld-backend-go-pure-go-clean-arch"]
+	path = realworld-backend-go-pure-go-clean-arch
+	url = https://github.com/err0r500/go-realworld-clean.git
+[submodule "realworld-backend-hapi"]
+	path = realworld-backend-hapi
+	url = https://github.com/gothinkster/hapijs-realworld-example-app.git
+[submodule "realworld-backend-koa-knex"]
+	path = realworld-backend-koa-knex
+	url = https://github.com/gothinkster/koa-knex-realworld-example.git
+[submodule "realworld-backend-kotlin-hexagon"]
+	path = realworld-backend-kotlin-hexagon
+	url = https://github.com/hexagonkt/real_world.git
+[submodule "realworld-backend-laravel"]
+	path = realworld-backend-laravel
+	url = https://github.com/gothinkster/laravel-realworld-example-app.git
+[submodule "realworld-backend-lumen-mongo"]
+	path = realworld-backend-lumen-mongo
+	url = https://github.com/elcobvg/lumen-realworld-example-app.git
+[submodule "realworld-backend-nestjs"]
+	path = realworld-backend-nestjs
+	url = https://github.com/lujakob/nestjs-realworld-example-app.git
+[submodule "realworld-backend-node"]
+	path = realworld-backend-node
+	url = https://github.com/gothinkster/node-express-realworld-example-app.git
+[submodule "realworld-backend-rust"]
+	path = realworld-backend-rust
+	url = https://github.com/gothinkster/rust-realworld-example-app.git
+[submodule "realworld-backend-rust-actix"]
+	path = realworld-backend-rust-actix
+	url = https://github.com/fairingrey/actix-realworld-example-app.git
+[submodule "realworld-backend-rust-rocket"]
+	path = realworld-backend-rust-rocket
+	url = https://github.com/TatriX/realworld-rust-rocket.git
+[submodule "realworld-backend-scala-akka"]
+	path = realworld-backend-scala-akka
+	url = https://github.com/1984weed/akka-http-realworld-example.git
+[submodule "realworld-backend-scala-finch"]
+	path = realworld-backend-scala-finch
+	url = https://github.com/alodavi/scala-finch-realworld-app.git
+[submodule "realworld-backend-scala-play"]
+	path = realworld-backend-scala-play
+	url = https://github.com/gothinkster/scala-play-realworld-example-app.git
+[submodule "realworld-backend-spring-boot"]
+	path = realworld-backend-spring-boot
+	url = https://github.com/gothinkster/spring-boot-realworld-example-app.git
+[submodule "realworld-backend-sring-boot-kotlin"]
+	path = realworld-backend-sring-boot-kotlin
+	url = https://github.com/gothinkster/kotlin-spring-realworld-example-app.git
+[submodule "realworld-frontend-angular"]
+	path = realworld-frontend-angular
+	url = https://github.com/gothinkster/angular-realworld-example-app.git
+[submodule "realworld-frontend-angular-ngrx-nx"]
+	path = realworld-frontend-angular-ngrx-nx
+	url = https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app.git
+[submodule "realworld-frontend-blazor-client-side"]
+	path = realworld-frontend-blazor-client-side
+	url = https://github.com/burke166/blazor-client-side-realworld-example-app.git
+[submodule "realworld-frontend-elm"]
+	path = realworld-frontend-elm
+	url = https://github.com/rtfeldman/elm-spa-example.git
+[submodule "realworld-frontend-ember"]
+	path = realworld-frontend-ember
+	url = https://github.com/gothinkster/ember-realworld.git
+[submodule "realworld-frontend-nextjs-react-redux"]
+	path = realworld-frontend-nextjs-react-redux
+	url = https://github.com/vincentntang/realworld-react-redux-nextJS.git
+[submodule "realworld-frontend-react-mobx"]
+	path = realworld-frontend-react-mobx
+	url = https://github.com/gothinkster/react-mobx-realworld-example-app.git
+[submodule "realworld-frontend-react-redux"]
+	path = realworld-frontend-react-redux
+	url = https://github.com/gothinkster/react-redux-realworld-example-app.git
+[submodule "realworld-frontend-svelte-sapper"]
+	path = realworld-frontend-svelte-sapper
+	url = https://github.com/sveltejs/realworld.git
+[submodule "realworld-frontend-vue"]
+	path = realworld-frontend-vue
+	url = https://github.com/gothinkster/vue-realworld-example-app.git
+[submodule "realworld-frontend-webcomponent-typescript"]
+	path = realworld-frontend-webcomponent-typescript
+	url = https://github.com/gardient/realworld-typescript-webcomponents.git
+[submodule "realworld-frontent-webcomponent-javascript"]
+	path = realworld-frontent-webcomponent-javascript
+	url = https://github.com/criticalbh/vanilla-web-components-spa.git
