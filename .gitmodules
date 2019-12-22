@@ -50,7 +50,7 @@
 	path = realworld-backend-nestjs
 	url = https://github.com/lujakob/nestjs-realworld-example-app.git
 [submodule "realworld-backend-node"]
-	path = realworld-backend-node
+	path = realworld-backend-node-express
 	url = https://github.com/gothinkster/node-express-realworld-example-app.git
 [submodule "realworld-backend-rust"]
 	path = realworld-backend-rust
@@ -74,7 +74,7 @@
 	path = realworld-backend-spring-boot
 	url = https://github.com/gothinkster/spring-boot-realworld-example-app.git
 [submodule "realworld-backend-sring-boot-kotlin"]
-	path = realworld-backend-sring-boot-kotlin
+	path = realworld-backend-kotlin-spring-boot
 	url = https://github.com/gothinkster/kotlin-spring-realworld-example-app.git
 [submodule "realworld-frontend-angular"]
 	path = realworld-frontend-angular
@@ -139,3 +139,15 @@
 [submodule "realworld-fullstack-loopback3"]
 	path = realworld-fullstack-loopback3
 	url = https://github.com/paulcedrick/realworld-starter-kit.git
+[submodule "realworld-backend-kotlin-javalin"]
+	path = realworld-backend-kotlin-javalin
+	url = https://github.com/Rudge/kotlin-javalin-realworld-example-app.git
+[submodule "realworld-backend-kotlin-http4k"]
+	path = realworld-backend-kotlin-http4k
+	url = https://github.com/alisabzevari/kotlin-http4k-realworld-example-app.git
+[submodule "realworld-backend-node-express-bookshelf"]
+	path = realworld-backend-node-express-bookshelf
+	url = https://github.com/tanem/express-bookshelf-realworld-example-app.git
+[submodule "realworld-backend-kotlin-ktor"]
+	path = realworld-backend-kotlin-ktor
+	url = https://github.com/dragneelfps/realworld-kotlin-ktor.git
