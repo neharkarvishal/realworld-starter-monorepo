@@ -151,3 +151,6 @@
 [submodule "realworld-backend-kotlin-ktor"]
 	path = realworld-backend-kotlin-ktor
 	url = https://github.com/dragneelfps/realworld-kotlin-ktor.git
+[submodule "realworld-backend-kotlin-arrow-spring-boot"]
+	path = realworld-backend-kotlin-arrow-spring-boot
+	url = https://github.com/istonikula/realworld-api.git
