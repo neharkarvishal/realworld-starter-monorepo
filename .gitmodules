@@ -154,3 +154,12 @@
 [submodule "realworld-backend-kotlin-arrow-spring-boot"]
 	path = realworld-backend-kotlin-arrow-spring-boot
 	url = https://github.com/istonikula/realworld-api.git
+[submodule "realworld-backend-quarkus"]
+	path = realworld-backend-quarkus
+	url = https://github.com/diegocamara/realworld-api-quarkus.git
+[submodule "realworld-frontend-clojurescript"]
+	path = realworld-frontend-clojurescript
+	url = https://github.com/roman01la/cljs-rum-realworld-example-app.git
+[submodule "realworld-backend-feathersjs"]
+	path = realworld-backend-feathersjs
+	url = https://github.com/randyscotsmithey/feathers-realworld-example-app.git
