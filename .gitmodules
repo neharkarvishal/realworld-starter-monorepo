@@ -163,3 +163,6 @@
 [submodule "realworld-backend-feathersjs"]
 	path = realworld-backend-feathersjs
 	url = https://github.com/randyscotsmithey/feathers-realworld-example-app.git
+[submodule "realworld-backend-kotlin-micronaut"]
+	path = realworld-backend-kotlin-micronaut
+	url = https://github.com/mirjahal/micronaut-kotlin-realworld-example-app.git
